@@ -1,8 +1,8 @@
 <div align="center">
   <br />
-   <a href="https://www.youtube.com/watch?v=ZSPZob_1TOk&t=644s" target="_blank"><img src="https://i.ibb.co/fQ2y0jH/c.png" alt="Main-Cover" border="0"></a>
+   <a href="https://www.youtube.com/watch?v=ZSPZob_1TOk&t=644s" target="_blank"><img src="https://github.com/user-attachments/assets/e0ad4fcf-68f9-4d9f-8f03-1cb35b8e2b33" alt="Main-Cover" border="0"></a>
   <br />
-
+  
 # Learning C
 
 </div>
